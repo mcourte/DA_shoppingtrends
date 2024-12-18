@@ -3,7 +3,7 @@
 
 
 # Ignorer les notebooks spécifiques
-shopping_trends.ipynb
+
 
 # Ignorer les checkpoints de Jupyter
 /.ipynb_checkpoints/
