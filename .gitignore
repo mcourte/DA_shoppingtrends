@@ -1,0 +1,9 @@
+# Ignorer le dossier de l'environnement virtuel
+/env/
+/shopping_trends
+
+# Ignorer les notebooks spécifiques
+shopping_trends.ipynb
+
+# Ignorer les checkpoints de Jupyter
+/.ipynb_checkpoints/
