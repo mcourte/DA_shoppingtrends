@@ -5,4 +5,4 @@
 
 Les données ont été récupérées sur le site [Kaggle](https://www.kaggle.com/datasets)
 
-Vous pouvez ouvrir le notebook Jupyter via Github. (shopping_trends.ipynb)
+Vous pouvez voir l'analyse sur ce [site](https://da-shoppingtrends.readthedocs.io/en/latest/)
